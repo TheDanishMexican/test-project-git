@@ -12,5 +12,9 @@ function start() {
   console.log("jo");
   console.log("Nu er vi i en konflikt - du er dum!");
   console.log(" piksvin - du er dum!");
+
+  console.log("intet at se her");
+
+  console.log("look away");
   console.log("Nu afprøver jeg merge conflict");
 }
