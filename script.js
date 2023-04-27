@@ -9,4 +9,5 @@ function start() {
   console.log("HEJ");
   console.log("konfliktsky");
   console.log("nej");
+  console.log("jo");
 }
