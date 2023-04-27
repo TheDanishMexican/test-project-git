@@ -8,4 +8,5 @@ function start() {
   console.log("Hello EMil NEJ");
   console.log("HEJ");
   console.log("konfliktsky");
+  console.log("nej");
 }
