@@ -10,4 +10,6 @@ function start() {
   console.log("konfliktsky");
   console.log("nej");
   console.log("jo");
+  console.log("Nu er vi i en konflikt - du er dum!");
+  console.log(" piksvin - du er dum!");
 }
