@@ -14,4 +14,6 @@ function start() {
   console.log(" piksvin - du er dum!");
 
   console.log("intet at se her");
+
+  console.log("look away");
 }
