@@ -8,4 +8,5 @@ function start() {
   console.log("Hello EMil NEJ");
   console.log("HEJ");
   console.log("Nu er vi i en konflikt - du er dum!");
+  console.log(" piksvin - du er dum!");
 }
