@@ -7,4 +7,5 @@ function start() {
   console.log("Hello Daniel");
   console.log("Hello EMil NEJ");
   console.log("HEJ");
+  console.log("konfliktsky");
 }
